@@ -1,0 +1,31 @@
+=================================
+      NUMBER GUESSING GAME
+=================================
+
+Round 1
+---------------------------
+I have selected a number between 1 and 100.
+You have only 10 attempts.
+Attempt 1: Enter your guess: 3
+Too Low! Try a higher number.
+Attempt 2: Enter your guess: 5
+Too Low! Try a higher number.
+Attempt 3: Enter your guess: 34
+Too Low! Try a higher number.
+Attempt 4: Enter your guess: 34
+Too Low! Try a higher number.
+Attempt 5: Enter your guess: 43
+Too Low! Try a higher number.
+Attempt 6: Enter your guess: 67
+Too Low! Try a higher number.
+Attempt 7: Enter your guess: 87
+Too Low! Try a higher number.
+Attempt 8: Enter your guess: 7
+Too Low! Try a higher number.
+Attempt 9: Enter your guess: 8
+Too Low! Try a higher number.
+Attempt 10: Enter your guess: 95
+Too Low! Try a higher number.
+Sorry! You have used all attempts.
+The correct number was: 96
+Current Total Score: 0
